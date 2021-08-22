@@ -2,13 +2,11 @@
 
 ## A chat application based on React, NodeJS, CSS, Firebase.
 
-#### https://antonrufus.github.io/chat-firebase-react/
+#### https://chat-firebase-react-8946516.web.app
 
 ## Tech stack:
 
 ### React,
-
-### NodeJS,
 
 ### CSS,
 
