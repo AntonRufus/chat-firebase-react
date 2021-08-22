@@ -4,6 +4,8 @@
 
 #### https://chat-firebase-react-8946516.web.app
 
+#### https://chat-firebase-react-8946516.netlify.app/
+
 ## Tech stack:
 
 ### React,
